@@ -1,4 +1,4 @@
-The dataset "dataset_mean.txt" contains the mean and standard deviation for each activity performed by each subject as part of the Human activity recognition using smartphones data set. The dataset contains 180 rows (6 activities each for 30 subjects) and 68 columns.
+The dataset "dataset_mean_final.txt" contains the mean and standard deviation for each activity performed by each subject as part of the Human activity recognition using smartphones data set. The dataset contains 180 rows (6 activities each for 30 subjects) and 68 columns.
 
 The subject column identifies the ID of each test subject; the activity column identifies the activity performed by each subject and includes the following 6 activities: WALKING; WALKING_UPSTAIRS; WALKING_DOWNSTAIRS; SITTING; STANDING; LAYING.
 
