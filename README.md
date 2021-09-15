@@ -6,7 +6,7 @@ This repository contains the necessary files for the week 4 programming assignme
   - the codebook for the dataset: "codebook.md"
   - the README.md file explaining an overview of the project
   
- # dataset_mean.txt
+ # dataset_mean_final.txt
  
  This dataset contains variables from data X that are measurements from sensor signals measured with a Samsung smartphone mounted at at the waist from 30 subjects. The dataset also includes variables from data Y that indicate the type of activity that the subjects performed during recording. Each row is an average of each activity type for each subject. Data is included only on the mean and standard deviation for each activity for each subject.
  
